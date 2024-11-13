@@ -1,2 +1,4 @@
 # Proyecto-8
 Análisi de negocio
+
+En este análisis a Y.Afisha se observarán las métricas de la aplicación, tales como la información que nos proporciona las visitas que realizan los usuarios por mes, semanas y por días, las sesiones que se inician por día y cuál es su duración, además se analizará la frecuencia con la que los usuarios regresan a utilizar la aplicación. De igual manera se analizar las ventas que realiza la aplicación, las primeras ventas que se realizan, las ventas que se realizan de manera mensual, se investigara el tamaño promedio de compra y el dinero en promedio que gasta cada usuario. Para marketing se analizará el total de dinero gastado en marketing, cual es el costo por la adquisición por cliente y la rentabilidad de las inversiones. Todo este análisis se realiza con el objetivo de proporcionar a los expertos en marketing de Y.Afisha a realizar inversiones efectivas en marketing.
